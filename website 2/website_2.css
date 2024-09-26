@@ -1,0 +1,47 @@
+.nav{
+    width: 100%;
+    height: 100px;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+  background-color: blue;
+   align-items: center;
+}
+
+
+.nav ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    width: 100%;
+}
+
+a{
+    text-decoration: none;
+}
+
+.one h1{
+    color: blue;
+    margin-top: 20px;
+    display: flex;
+}
+
+.two img{
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+}
+
+
+.footer{
+    width: 100%;
+    height: 100px;
+    font-size: 20px;
+    margin-top: 20px;
+    align-items: end;
+    text-align: center;
+    background-color: blue;
+    bottom: 1px;
+    position: fixed;
+}
